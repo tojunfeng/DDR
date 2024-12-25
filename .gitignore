@@ -1,0 +1,6 @@
+/dataset
+/output
+/pretrained_models
+*.pyc
+*.out
+temp*
